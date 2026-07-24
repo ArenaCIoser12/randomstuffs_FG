@@ -9,7 +9,11 @@
   "reflectionIntensity": "1",
   "fog": "true",
   "fogDensity": "0.001",
+<<<<<<< HEAD
   "fogColor": "0.8160377 0.9793512 1 1",
   "keepExistingObjects": "true",
   "music": ""
+=======
+  "fogColor": "0.8156863 0.9803922 1 1",
+>>>>>>> d7017a0292a6be2be3a5dc10280ff74ebf565a79
 }
