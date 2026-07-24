@@ -1,14 +1,15 @@
 ﻿{
-  "displayName": "Run",
+  "displayName": "run",
+  "description": "yeah it's Run",
   "file": "round_run",
   "prefab": "round_run",
   "skybox": "Skybox_Respawn_02_B",
-  "ambientMode": "3",
-  "ambientLight": "1 0.8901961 0.7686275 1",
+  "ambientMode": "1",
+  "ambientLight": "0.9046614 0.5647117 0.2961383 1",
+  "reflectionIntensity": "1",
   "fog": "true",
   "fogDensity": "0.001",
-  "fogColor": "0.8156863 0.9803922 1 1",
-  "musicBank": "",
-  "musicEvent": "",
-  "musicStringsBank": ""
+  "fogColor": "0.8160377 0.9793512 1 1",
+  "keepExistingObjects": "true",
+  "music": ""
 }
