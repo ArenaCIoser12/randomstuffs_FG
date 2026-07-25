@@ -1,0 +1,15 @@
+﻿{
+  "displayName": "Speed Slider",
+  "description": "test test test",
+  "file": "round_slidechute",
+  "prefab": "round_slidechute",
+  "skybox": "VFX_AnimatedSkybox_S09_Background",
+  "ambientMode": "3",
+  "ambientLight": "0.5368903 0.8138099 0.8962264 1",
+  "reflectionIntensity": "1",
+  "fog": "true",
+  "fogDensity": "0.004",
+  "fogColor": "0.172549 0.5654497 0.8862745 1",
+  "keepExistingObjects": "true",
+  "music": ""
+}
