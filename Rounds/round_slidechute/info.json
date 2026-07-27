@@ -1,6 +1,6 @@
 ﻿{
   "displayName": "Speed Slider",
-  "description": "test test test",
+  "description": "Slide down the track and race to the finish line!",
   "file": "round_slidechute",
   "prefab": "round_slidechute",
   "skybox": "VFX_AnimatedSkybox_S09_Background",
