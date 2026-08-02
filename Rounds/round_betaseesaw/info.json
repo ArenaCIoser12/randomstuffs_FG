@@ -1,6 +1,6 @@
 ﻿{
   "displayName": "betaseesaw",
-  "description": "",
+  "description": "Race to the finish!\\n First 75% Qualify",
   "file": "round_betaseesaw",
   "prefab": "round_betaseesaw",
   "skybox": "Skybox_GeometricBlue_Fresnel_MAT",
@@ -10,6 +10,6 @@
   "fog": "true",
   "fogDensity": "0.0005",
   "fogColor": "0.5137255 0.8666667 1 1",
-  "keepExistingObjects": "false",
-  "music": ""
+  "keepExistingObjects": "true",
+  "music": "BNK_Music_Gameplay_Logic [2].mp3"
 }
